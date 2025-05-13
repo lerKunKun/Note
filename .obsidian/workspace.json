@@ -65,18 +65,64 @@
             "id": "4c973843d15d1e24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Forwork_snap/TODO(没座).md",
-                "mode": "source",
-                "source": false
+                "file": "ForWork_page/Work/Pasted image 20250429163148.png"
               },
-              "icon": "lucide-file",
-              "title": "TODO(没座)"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429163148"
+            }
+          },
+          {
+            "id": "bb3db7e0c56aa61f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ForWork_page/Work/Pasted image 20250429162717.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429162717"
+            }
+          },
+          {
+            "id": "be1930b73f8ef32d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ForWork_page/Work/Pasted image 20250429163148.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429163148"
+            }
+          },
+          {
+            "id": "4ba5b8f4f51e8a07",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ForWork_page/Work/Pasted image 20250429162717.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429162717"
+            }
+          },
+          {
+            "id": "593ce0408727def5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ForWork_page/Work/Pasted image 20250429163148.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429163148"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -222,12 +268,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c973843d15d1e24",
+  "active": "593ce0408727def5",
   "lastOpenFiles": [
-    "Pasted image 20250513094705.png",
-    "Pasted image 20250513094639.png",
-    "Pasted image 20250513094527.png",
-    "Pasted image 20250513094513.png",
+    "ForWork_page/Work/Pasted image 20250429162717.png",
+    "ForWork_page/Work/Pasted image 20250429163148.png",
+    "ForWork_page/W-code/Pasted image 20250505143925.png",
+    "ForWork_page/W-code/Icon-with-view-change.md",
+    "ForWork_page/W-code/Icon bar.md",
+    "ForWork_page/W-code/Detail page CSS.md",
+    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+    "ForWork_page/W-code/Pasted image 20250417105231.png",
+    "ForWork_page/W-code/Pasted image 20250417105155.png",
+    "ForWork_page/W-code/Pasted image 20250417105009.png",
+    "ForWork_page/W-code/multirow-L-W-to-500x500px-CSS.md",
+    "ForWork_page/Work/color change.md",
+    "ForWork_page/Work/color.md",
+    "Forwork_snap/Pasted image 20250512162453.png",
+    "Forwork_snap/Pasted image 20250513094705.png",
+    "Forwork_snap/TODO(没座).md",
+    "Forwork_snap/Pasted image 20250513094513.png",
+    "Forwork_snap/Pasted image 20250513094527.png",
     "Forwork_snap/SnapBI.md",
     "Forwork_snap/Snap Marking API 参数.md",
     "Forwork_snap/git.md",
@@ -235,31 +295,16 @@
     "ForWork_page/TODO/py shell（reviews）.md",
     "Forwork_snap/DB setting.md",
     "Forwork_snap/WorkNote.md",
-    "Forwork_snap/TODO(没座).md",
     "笔记文档.md",
     "snapchat/README-zh.md",
     "ForWork_page/Work/WorkDoc.md",
-    "Pasted image 20250512162453.png",
-    "ForWork_page/Work/color.md",
     "ForWork_page/Work/QuickStart.md",
     "ForWork_page/Work/HAR文件导出.md",
     "ForWork_page/Work/Discount.md",
-    "ForWork_page/Work/color change.md",
-    "ForWork_page/W-code/Icon bar.md",
-    "ForWork_page/W-code/Detail page CSS.md",
-    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
     "Forwork_snap",
-    "ForWork_page/W-code/multirow-L-W-to-500x500px-CSS.md",
-    "ForWork_page/W-code/Icon-with-view-change.md",
-    "Pasted image 20250429162717.png",
-    "Pasted image 20250429163148.png",
-    "Pasted image 20250505143925.png",
     "Welcome.md",
     "ForWork_page/work-doc-fix/goal.md",
     "ForWork_page/work-doc-fix/fix.md",
-    "ForWork_page/work-doc-fix/39da3933f4b14c2ea90b67cd49cf2d85.png",
-    "ForWork_page/W-code/Pasted image 20250417105231.png",
-    "ForWork_page/W-code/Pasted image 20250417105155.png",
     "ForWork/W-code/未命名.md",
     "ForWork_page/TODO",
     "SnapBI/README",
