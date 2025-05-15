@@ -8,10 +8,6 @@ like this
 	  height: 120px;
 	  border-radius: 50%;
 	}
-	.icons-with-text__icon__icon img {
-	  border-radius: 50%;
-	  box-shadow: rgba(0, 0, 0, 0.25) 4px 4px 5px;
-	}
 	.icons-with-text__icon-item {
 	  padding: 15px;
 	  border-radius: 15px;
