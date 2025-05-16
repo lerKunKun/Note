@@ -129,16 +129,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForWork_page/W-code/SALE UPDATE.md",
+                "file": "ForWork_page/W-code/Icon bar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SALE UPDATE"
+              "title": "Icon bar"
+            }
+          },
+          {
+            "id": "6bf6291793d8e327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForWork_page/Work/color.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "color"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -280,49 +294,49 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "03782d0ab8b8e739",
+  "active": "6bf6291793d8e327",
   "lastOpenFiles": [
     "ForWork_page/Work/Discount.md",
-    "ForWork_page/W-code/SALE UPDATE.md",
-    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
-    "ForWork_page/W-code/Detail page CSS.md",
+    "ForWork_page/Work/color change.md",
     "ForWork_page/Work/color.md",
+    "Forwork_snap/WorkNote.md",
+    "Forwork_snap/Snap Marking API 参数.md",
+    "Forwork_snap/SnapBI.md",
+    "Forwork_snap/biouadmin-database-docs.md",
+    "Forwork_snap/DB setting.md",
+    "ForMy/cloud setting.md",
     "ForWork_page/W-code/Icon bar.md",
+    "ForMy",
+    "ForWork_page/W-code/Detail page CSS.md",
+    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+    "README.md",
+    "Forwork_snap/TODO(没座).md",
+    "Forwork_snap/git.md",
+    "Forwork_snap/Pasted image 20250512162453.png",
+    "ForWork_page/W-code/SALE UPDATE.md",
     "ForWork_page/W-code/multirow-L-W-to-500x500px-CSS.md",
     "ForWork_page/W-code/Icon-with-view-change.md",
     "ForWork_page/W-code/Pasted image 20250417105009.png",
-    "Forwork_snap/biouadmin-database-docs.md",
-    "Forwork_snap/DB setting.md",
     "ForWork_page/Work/WorkDoc.md",
     "ForWork_page/Work/QuickStart.md",
     "ForWork_page/Work/Pasted image 20250429163148.png",
     "ForWork_page/Work/Pasted image 20250429162717.png",
     "ForWork_page/Work/Loox Reviews Plugins.md",
     "ForWork_page/Work/HAR文件导出.md",
-    "ForWork_page/Work/color change.md",
     "Welcome.md",
     "ForWork_page/W-code/Pasted image 20250505143925.png",
     "ForWork_page/W-code/Pasted image 20250417105231.png",
     "ForWork_page/W-code/Pasted image 20250417105155.png",
-    "Forwork_snap/Pasted image 20250512162453.png",
     "Forwork_snap/Pasted image 20250513094705.png",
-    "Forwork_snap/TODO(没座).md",
     "Forwork_snap/Pasted image 20250513094513.png",
     "Forwork_snap/Pasted image 20250513094527.png",
-    "Forwork_snap/SnapBI.md",
-    "Forwork_snap/Snap Marking API 参数.md",
-    "Forwork_snap/git.md",
     "SnapBI/Snap Api.md",
     "ForWork_page/TODO/py shell（reviews）.md",
-    "Forwork_snap/WorkNote.md",
     "笔记文档.md",
-    "snapchat/README-zh.md",
     "Forwork_snap",
-    "ForWork_page/work-doc-fix/goal.md",
     "ForWork_page/TODO",
     "SnapBI/README",
     "README",
@@ -330,7 +344,6 @@
     "snapchat",
     "Javadoc",
     "pydoc",
-    "ForWork_page/W-code",
-    "ForWork_page/Work"
+    "ForWork_page/W-code"
   ]
 }

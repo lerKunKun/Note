@@ -25,10 +25,3 @@ spend CPM CPC CTR Rev ROI
 | 点击率      | Click Through Rate         | CTR        | 点击数 / 展示数 × 100%       | ![[Pasted image 20250513094639.png]] |
 | 销售额      | Revenue                    | Rev        | 广告带来的销售总金额             | 广告的总销售金额                             |
 | 投资回报率    | Return On Investment       | ROI        | （销售额 - 成本）/ 成本 × 100%  | ![[Pasted image 20250513094705.png]] |
-```bash
-git add .
-git commit -m "my obsidian vault test commit"
-git branch -M main
-git remote add origin git@github.com:lerKunKun/Note.git
-git push -u origin main
-```

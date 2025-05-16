@@ -15,6 +15,7 @@ https://gitee.com/zgchdh/biouadmin_front
 域名
 ```
 java.turecou.com
+java 端口8080
 ```
 
 
