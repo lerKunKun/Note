@@ -78,7 +78,31 @@ DingTalk maven
 | sys07-childSex               | 子女性别     |
 | sys07-childBirthDate         | 子女出生日期   |
 
+needed
 
+|                            |        |
+| -------------------------- | ------ |
+| 字段code                     | 业务含义   |
+| sys00-name                 | 姓名     |
+| sys00-email                | 邮箱     |
+| sys00-dept                 | 部门     |
+| sys00-mainDept             | 主部门    |
+| sys00-position             | 职位     |
+| sys00-mobile               | 手机号    |
+| sys00-jobNumber            | 工号     |
+| sys00-confirmJoinTime      | 入职时间   |
+| sys01-employeeType         | 员工类型   |
+| sys01-employeeStatus       | 员工状态   |
+| sys01-positionLevel        | 岗位职级   |
+| sys02-realName             | 身份证姓名  |
+| sys02-certNo               | 证件号码   |
+| sys02-birthTime            | 出生日期   |
+| sys02-sexType              | 性别     |
+| sys02-nationType           | 民族     |
+| sys05-contractType         | 合同类型   |
+| sys05-nowContractStartTime | 现合同起始日 |
+| sys05-nowContractEndTime   | 现合同到期日 |
+| sys05-contractPeriodType   | 合同期限   |
 
 ### 钉钉开发者权限申请
 
