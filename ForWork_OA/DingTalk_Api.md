@@ -104,6 +104,43 @@ needed
 | sys05-nowContractEndTime   | 现合同到期日 |
 | sys05-contractPeriodType   | 合同期限   |
 
+
+加签
+SEC598a0a183d71feed2ae08020add25acd7ec27dded6f169d19e4266012de486c0
+
+
+webhok
+https://oapi.dingtalk.com/robot/send?access_token=2a250c157a3e461c1244fd69cee16b6a923f4c4193106e6f211b8f858164cc58
+
+
+```swift
+src/main/java/com/ruoyi/
+├── common/
+│   └── utils/
+│       ├── DingTalkApiUtil.java
+│       ├── DingTalkRobotUtil.java
+│       └── UserAccountGenerator.java
+│
+├── framework/
+│   ├── config/
+│   │   └── DingTalkProperties.java
+│   └── task/
+│       └── DingTalkSyncTask.java
+│
+├── project/
+│   └── system/
+│       ├── domain/
+│       │   └── SysDingTalkUser.java
+│       ├── mapper/
+│       │   └── SysDingTalkUserMapper.java
+│       ├── service/
+│       │   └── DingTalkUserService.java
+│       └── service/impl/
+│           └── DingTalkUserServiceImpl.java
+
+```
+
+
 ### 钉钉开发者权限申请
 
 您好，
