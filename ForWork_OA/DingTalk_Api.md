@@ -141,6 +141,14 @@ src/main/java/com/ruoyi/
 ```
 
 
+AppKey
+ding2o5exqttk4d9vjqq
+
+AppSecret
+atE27kNpKYUlwHy9jGHL1T5sPfZUn0gDe3q87uT9kDPF5TWySizUPX-lf0JIHJdP
+
+
+-> access token
 ### 钉钉开发者权限申请
 
 您好，
