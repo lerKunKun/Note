@@ -147,8 +147,19 @@ ding2o5exqttk4d9vjqq
 AppSecret
 atE27kNpKYUlwHy9jGHL1T5sPfZUn0gDe3q87uT9kDPF5TWySizUPX-lf0JIHJdP
 
+0523-1642
 
--> access token
+bdc4339cd7333b54a6c3b67187b75af4
+
+20b67066929b3dcfb0d200b99c51df79
+
+-> access token -> redis 7200s
+
+access token->
+
+
+github nbbbb!
+https://github.com/tingyugetc520/DtJava.git
 ### 钉钉开发者权限申请
 
 您好，
@@ -170,5 +181,6 @@ atE27kNpKYUlwHy9jGHL1T5sPfZUn0gDe3q87uT9kDPF5TWySizUPX-lf0JIHJdP
 
 申请人：朱润峰
 日期：2025年05月22日
+
 
 
