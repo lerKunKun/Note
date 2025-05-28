@@ -14,3 +14,20 @@ like this
 	  background-color: #f6f6f6;
 	}
 ```
+
+update
+```css
+.icons-with-text__icon__icon {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+}
+.icons-with-text__icon-item {
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #f6f6f6;
+}
+.icons-with-text__icon__icon img {
+  border-radius: 50%;
+}
+```
