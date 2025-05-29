@@ -2,8 +2,8 @@
 
 ```css
 img {
-  width: 100px;
-  height: 100px;
+  width: 160px;
+  height: 284px;
 }
 .image-with-text__media {
   position: relative;

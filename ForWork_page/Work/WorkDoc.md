@@ -4,6 +4,24 @@
 https://cj.dlz123.cn/admin/index/index.html
 ```
 
+```
+老师们请查收：
+
+catalog product list：  https://businesshelp.snapchat.com/s/article/product-catalog-specs?language=en_US
+
+如何上传： https://businesshelp.snapchat.com/s/article/create-catalog?language=en_US
+
+API上传： https://developers.snap.com/api/marketing-api/Ads-API/dynamic-product-ads#product-catalog
+```
+
+
+```text
+ID:9d228b61-6388-481e-8e61-62334e2b931f
+Secret:YobxUNPVfZdqWzw_zZOTX55sp14f3nh9ZQ-zbNsIpUk
+
+```
+
+
 
 ```text
 独立站邮箱：support@viralvera.com
