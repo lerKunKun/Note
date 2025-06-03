@@ -51,6 +51,4 @@ size
 
 https://chatgpt.com/share/6800af43-9c8c-800f-b2fe-e12076cb563e  
 
-帮我完善和整理Snapchat API 广告投放的流程和关键步骤，输出实例demo和readme文档
 
-# No-Bra, All Style Tank Top
