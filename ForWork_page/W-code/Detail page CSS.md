@@ -35,15 +35,10 @@ update
 ultimate
 ```css
 .icons-with-text__icon__icon {
-
   width: 80px;
-
   height: 80px;
-
   border-radius: 50%;
-
   overflow: hidden;
-
 }
 
 .icons-with-text__icon-item {

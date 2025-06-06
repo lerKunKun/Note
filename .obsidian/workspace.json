@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForWork_page/W-code/Icon bar.md",
+                "file": "ForWork_page/Work/color.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Icon bar"
+              "title": "color"
             }
           }
         ]
@@ -168,23 +168,26 @@
   },
   "active": "7bb92990d9aa0fbb",
   "lastOpenFiles": [
-    "ForWork_page/Work/color change.md",
     "ForWork_page/Work/Discount.md",
     "ForWork_page/Work/color.md",
-    "ForWork_page/W-code/Detail page CSS.md",
     "ForWork_page/Work/WorkDoc.md",
+    "Forwork_snap/WorkNote.md",
+    "ForWork_page/W-code/Detail page CSS.md",
     "ForWork_page/W-code/Icon bar.md",
+    "ForWork_page/Work/color change.md",
     "ForWork_page/W-code/Icon-with-view-change.md",
     "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
-    "ForWork_page/W-code/multirow-L-W-to-500x500px-CSS.md",
+    "ForWork_page/TODO/py shell（reviews）.md",
     "ForWork_page/W-code/img with nb css.md",
+    "Pasted image 20250604153900.png",
+    "Forwork_snap/SnapBI.md",
+    "Forwork_snap/TODO(没座).md",
+    "ForWork_page/W-code/multirow-L-W-to-500x500px-CSS.md",
     "Pasted image 20250529105418.png",
     "Pasted image 20250529101203.png",
     "Pasted image 20250529101151.png",
-    "ForWork_page/TODO/py shell（reviews）.md",
     "ForWork_OA/json.md",
     "ForWork_OA/DingTalk_Api.md",
-    "Forwork_snap/WorkNote.md",
     "Welcome.md",
     "笔记文档.md",
     "ForWork_page/W-code/Pasted image 20250505143925.png",
@@ -199,11 +202,8 @@
     "README.md",
     "ForMy/cloud setting.md",
     "ForWork_page/Work/Pasted image 20250516163620.png",
-    "ForWork_page/Work/Pasted image 20250429163148.png",
     "Forwork_snap/git.md",
     "Forwork_snap/DB setting.md",
-    "Forwork_snap/TODO(没座).md",
-    "Forwork_snap/SnapBI.md",
     "ForMy",
     "Forwork_snap",
     "ForWork_page/TODO",

@@ -2,6 +2,10 @@
 产品爬虫网址
 ```text
 https://cj.dlz123.cn/admin/index/index.html
+
+username:ricardo
+password:king98..
+
 ```
 
 ```
@@ -70,3 +74,5 @@ ssh -CNg -L 7860:127.0.0.1:7860 root@124.156.212.26 -p 7860
 产品上架后链接清除 ®、 ™、 其他域名
 
 ![[Pasted image 20250423112830.png]]
+
+![[Pasted image 20250604153900.png]]
