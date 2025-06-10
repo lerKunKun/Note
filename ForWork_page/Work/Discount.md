@@ -1,5 +1,5 @@
 
-``` bash
+``` text
 Buy One
 
 Buy 1 Get 1 50% Off
