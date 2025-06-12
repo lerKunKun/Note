@@ -80,3 +80,6 @@ img-musk.css
 </div>
 ```
 
+```bash
+wsl --install -d Ubuntu
+```
