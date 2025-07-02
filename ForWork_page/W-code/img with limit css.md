@@ -10,7 +10,7 @@ liquid css
 if image px need change
 square 1:1
 ![[Pasted image 20250529105418.png]]
-css    less div css div ps>img px
+css    less div css div px>img px
 ```css
  .img{
  width: 520px;
@@ -78,8 +78,4 @@ img-musk.css
     </div>
 
 </div>
-```
-
-```bash
-wsl --install -d Ubuntu
 ```
