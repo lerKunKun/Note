@@ -25,11 +25,11 @@ css    less div css div px>img px
 img-musk.css
 ```css
 .media--transparent {
-  position: relative; /* 为绝对定位的图片建立参考 */
-  width: 520px; /* 固定宽度 */
-  height: 520px; /* 固定高度 */
-  margin: 0 auto; /* 居中显示 */
-  overflow: hidden; /* 隐藏超出部分 */
+  position: relative; 
+  width: 520px; 
+  height: 520px; 
+  margin: 0 auto; 
+  overflow: hidden; 
 }
 
 .media--transparent img {
@@ -78,4 +78,11 @@ img-musk.css
     </div>
 
 </div>
+```
+
+
+```html
+
+
+
 ```
