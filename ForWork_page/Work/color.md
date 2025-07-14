@@ -12,3 +12,11 @@
  #ff9AB3
 ```
 
+## For ggvtrend
+
+### GGVTREND
+
+![[Pasted image 20250704165026.png]]
+```css
+#EDB48C
+```
