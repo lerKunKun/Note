@@ -5,35 +5,31 @@ $79 FreeShipping
 Buy One
 
 Buy 1 Get 1 50% Off
-25
-
-Most Popular
+25 %off
 
 Buy 2 Get 1 Free
-33.33
+33.33 %off
 
-
-Free Shipping
-
-Magic-Back-Push-Up-Bra | Full Bust Lifted, Confidence Boosted
 ```
 
 defult
 
 ```text
-
 Single
 
-Dou
-10
+Duo
+10 %off
 
 Trio
-15
-
+15 %off
 
 ```
 
+Free Shipping
 
+Most Popular
+
+Magic-Back-Push-Up-Bra | Full Bust Lifted, Confidence Boosted
 ### For GGV
 
 FreeShipping
@@ -42,7 +38,7 @@ $69 FreeShipping
 ```
 
 Discount
-
+1
 ```text
 
 Buy 1 Get 1 Free
@@ -53,6 +49,16 @@ Buy 3 Get 3 Free
 
 
 ALL 50% OFF
+
+```
+2
+```text
+
+Buy One
+
+Buy 2 Get 1 Free
+
+Buy 3 Get 2 Free
 
 ```
 

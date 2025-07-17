@@ -3,8 +3,14 @@
 ```text
 https://cj.dlz123.cn/admin/index/index.html
 
-username:ricardo
-password:king98..
+username:BIOU2025
+password:biou2025
+
+查侵权
+https://www.amazon.com/shopthelook?q=local](https://www.amazon.com/shopthelook?q=local
+
+查目标页面插件
+https://www.shopscan.app/
 
 ```
 
