@@ -26,8 +26,13 @@ Trio
 ```
 
 Free Shipping
+FREE SHIPPING
 
 Most Popular
+MOST POPULAR
+
+Most Vaule
+MOST VAULE
 
 Magic-Back-Push-Up-Bra | Full Bust Lifted, Confidence Boosted
 ### For GGV
