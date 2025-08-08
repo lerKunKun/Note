@@ -1,5 +1,8 @@
-- [ ]  Glowing Rice Ampoule Double Effect Exfoliating Essence🌾 Kaching Bundles
-- [ ] 💖Summer Hot Sale 49% OFF -- Soft Magnetic Eyelashes All-in-One Box, Reusable Kaching Bundles
+- [ ]  Kaching Bundles
+
+	- [ ]  Glowing Rice Ampoule Double Effect Exfoliating Essence🌾 
+	- [ ] 💖Summer Hot Sale 49% OFF -- Soft Magnetic Eyelashes All-in-One Box, Reusable 
+	- [ ] 100% Natural Egyptian Kohl  Eyeliner – Inspired by Ancient Egyptian Beauty 
 
 
 - [ ] 检查库存
@@ -8,5 +11,5 @@
 - [ ] 结账
 
 
-- [ ] new https://ggvtrend.com/products/instant-eye-tightener-easy-wear-formula-ultimate-lift-smooth-finish
-- [ ] old https://ggvtrend.com/products/new-formula
+- [x] new https://ggvtrend.com/products/instant-eye-tightener-easy-wear-formula-ultimate-lift-smooth-finish
+- [x] old https://ggvtrend.com/products/new-formula
