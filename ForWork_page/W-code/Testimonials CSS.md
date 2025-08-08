@@ -8,7 +8,7 @@ img {
   width: 100%;
   max-width: 100%;
   aspect-ratio: 16 / 9;
- /* border: 10px solid #f3f3f3;*/
+  /* border: 10px solid #f3f3f3;*/
   border-radius: 20px;
   overflow: hidden;
   box-sizing: border-box;
