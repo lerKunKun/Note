@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shopify_note/shopify_admin_naming_rules.md",
+                "file": "shopify_note/SEO_learning_plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shopify_admin_naming_rules"
+              "title": "SEO_learning_plan"
             }
           }
         ]
@@ -169,7 +169,10 @@
   },
   "active": "ef43c97b0f96d0db",
   "lastOpenFiles": [
-    "shopify_note/未命名.md",
+    "shopify_note/plugin_learning_plan.md",
+    "shopify_note/SEO_learning_plan.md",
+    "shopify_note/theme_learning.md",
+    "shopify_note/n8n_learning_plan.md",
     "shopify_note/shopify_admin_naming_rules.md",
     "shopify_note/对标站定价规律总结方案.md",
     "shopify_note/字体替换(font-change).md",
@@ -192,9 +195,6 @@
     "ForMy/cc api key.md",
     "ForMy/cloud setting.md",
     "ForMy/document_access_control.md",
-    "ForMy/MENU--Note.md",
-    "pydoc/worning.md",
-    "snapchat/README-zh.md",
     "Pasted image 20250820162429.png",
     "Pasted image 20250820141750.png",
     "Pasted image 20250820142038.png",
