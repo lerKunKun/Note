@@ -22,6 +22,13 @@
 ```
 
 
+For ggvlab
+![[Pasted image 20250905163201.png]]
+```css
+#B3848F
+```
+
+
 beef-tallow-face-and-body-balm
 
 ```text
