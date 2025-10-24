@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "2ffb8b00de6f3aac",
+    "type": "split",
+    "children": [
+      {
+        "id": "791f8dd22de1ed45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef43c97b0f96d0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForWork_page/W-code/Shipping & Return.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shipping & Return"
+            }
+          },
+          {
+            "id": "ae05684f3ff1983f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForMy/草稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "草稿"
+            }
+          },
+          {
+            "id": "03cc5b73cfce7134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2x2 image and 2x2 reviews"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af5c7ac5a6852f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "4851b35a9cbf6337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57d4c116de526e52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b10a0c34477ca8ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "shipping",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5dcafda482583580",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "d86438aa43e15f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "efa050a59c41b53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad615f90e7fd4fc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ForWork_page/Work/Discount.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Discount 的反向链接列表"
+            }
+          },
+          {
+            "id": "71e3b72967d0177b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a61c7b2f03a4083",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84e0a228759875ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "57d4c116de526e52",
+  "lastOpenFiles": [
+    "ForMy/curvevera.com_.2025-09-30T01_59_25.548Z.md",
+    "Forwork_snap/biouadmin-database-docs.md",
+    "ForMy/Note.md",
+    "ForWork_page/Work/TODO.md",
+    "ForMy/shopify建站插件.md",
+    "ForWork_page/W-code/SALE UPDATE.md",
+    "ForWork_page/W-code/reviews-loox-star-setting.md",
+    "ForWork_page/W-code/Shipping & Return.md",
+    "ForMy/草稿.md",
+    "未命名 1.base",
+    "ForWork_page/Work/Loox Reviews Plugins.md",
+    "ForWork_page/TODO/just text.md",
+    "ForWork_page/Work/三栏数据展示带js.md",
+    "ForWork_page/W-code/shadow css.md",
+    "ForShopLine/特色轮播图.md",
+    "未命名.base",
+    "ForShopLine",
+    "未命名.md",
+    "img/Pasted image 20250820141635.png",
+    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+    "ForWork_page/W-code/Testimonials CSS.md",
+    "ForWork_page/W-code/img with limit css.md",
+    "ForWork_page/W-code/Icon bar.md",
+    "ForWork_page/Work/Discount.md",
+    "ForMy/MENU--Note.md",
+    "ForMy/便携版说明.md",
+    "ForWork_page/Work/WorkDoc.md",
+    "ForWork_page/W-code/Detail page CSS.md",
+    "ForWork_OA/DingTalk_Api.md",
+    "Forwork_snap/WorkNote.md",
+    "img/Pasted image 20250529101151.png",
+    "img/Pasted image 20250918143356.png",
+    "img/Pasted image 20250905163212.png",
+    "img/Pasted image 20250905163201.png",
+    "ForWork_page/Work/Pasted image 20250429163148.png",
+    "ForWork_page/W-code/Pasted image 20250505143925.png",
+    "ForWork_page/Work/5a8fac0bc9e2ce80eccdaeaebb8d0bb6.png",
+    "ForWork_page/W-code/Pasted image 20250417105231.png",
+    "ForWork_page/W-code/Pasted image 20250417105009.png",
+    "shopify_note/webSetUp",
+    "shopify_note",
+    "img",
+    "ForWork_OA",
+    "ForMy",
+    "Forwork_snap",
+    "ForWork_page/TODO"
+  ]
+}
