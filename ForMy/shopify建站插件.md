@@ -16,6 +16,9 @@ Shopify Inbox
 Kiwi SizeChart & Recommender
 
 
+弹窗订阅转化+邮件营销  
+Trustoo Email Popups
+
 
 ```
 

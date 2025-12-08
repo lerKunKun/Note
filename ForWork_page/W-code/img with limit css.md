@@ -80,9 +80,9 @@ img-musk.css
 </div>
 ```
 
-
-```html
-
-
+```shell
+curl -fsSL https://gitee.com/CoderRouter/scripts/raw/master/setup_claude_env.sh \
+  | sed 's/\r$//' \
+  | bash -s -- sk-XQIAmXMF21s8fHong00N3caLCUISFgdeTkHLjZsZzgOCJgyN
 
 ```

@@ -1,0 +1,5 @@
+- [x]  邮件格式修改
+- [x] 站APP安
+- [x] 网站卡logo添加和修改
+- [x] Terms &amp; Conditions条款修改
+- [x] 删除购物车支付页面中的tip模快

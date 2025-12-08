@@ -42,26 +42,16 @@ ultimate
 }
 
 .icons-with-text__icon-item {
-
   padding: 15px;
-
   border-radius: 15px;
-
   background-color: #f6f6f6;
-
 }
 
 .icons-with-text__icon__icon img {
-
   width: 100%;
-
   height: 100%;
-
   border-radius: 50%;
-
   object-fit: cover;
-
   object-position: center;
-
 }
 ```

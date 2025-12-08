@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef43c97b0f96d0db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ForWork_page/W-code/Shipping & Return.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shipping & Return"
-            }
-          },
-          {
-            "id": "ae05684f3ff1983f",
+            "id": "575b78b349bd7033",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,20 +22,21 @@
             }
           },
           {
-            "id": "03cc5b73cfce7134",
+            "id": "3748b1914d4bc9c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+                "file": "ForMy/草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2x2 image and 2x2 reviews"
+              "title": "草稿"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shipping",
+                "query": "进度条",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,53 +183,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57d4c116de526e52",
+  "active": "3748b1914d4bc9c1",
   "lastOpenFiles": [
-    "ForMy/curvevera.com_.2025-09-30T01_59_25.548Z.md",
-    "Forwork_snap/biouadmin-database-docs.md",
-    "ForMy/Note.md",
-    "ForWork_page/Work/TODO.md",
-    "ForMy/shopify建站插件.md",
-    "ForWork_page/W-code/SALE UPDATE.md",
-    "ForWork_page/W-code/reviews-loox-star-setting.md",
-    "ForWork_page/W-code/Shipping & Return.md",
+    "ForMy/分层文档权限系统-用户故事.md",
     "ForMy/草稿.md",
-    "未命名 1.base",
-    "ForWork_page/Work/Loox Reviews Plugins.md",
-    "ForWork_page/TODO/just text.md",
-    "ForWork_page/Work/三栏数据展示带js.md",
-    "ForWork_page/W-code/shadow css.md",
-    "ForShopLine/特色轮播图.md",
-    "未命名.base",
-    "ForShopLine",
-    "未命名.md",
-    "img/Pasted image 20250820141635.png",
-    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
-    "ForWork_page/W-code/Testimonials CSS.md",
+    "ForMy/17-TRACK-PRD.md",
+    "ForMy/便携版说明.md",
+    "ForMy/Oceanpayment.md",
+    "未命名 5.base",
+    "ForWork_page/W-code/进度条.md",
+    "ForMy/AI直播软件MVP功能列表.md",
     "ForWork_page/W-code/img with limit css.md",
     "ForWork_page/W-code/Icon bar.md",
-    "ForWork_page/Work/Discount.md",
-    "ForMy/MENU--Note.md",
-    "ForMy/便携版说明.md",
-    "ForWork_page/Work/WorkDoc.md",
+    "ForWork_page/W-code/front url.md",
     "ForWork_page/W-code/Detail page CSS.md",
-    "ForWork_OA/DingTalk_Api.md",
-    "Forwork_snap/WorkNote.md",
-    "img/Pasted image 20250529101151.png",
-    "img/Pasted image 20250918143356.png",
-    "img/Pasted image 20250905163212.png",
-    "img/Pasted image 20250905163201.png",
-    "ForWork_page/Work/Pasted image 20250429163148.png",
+    "ForWork_page/W-code/banner link Black-Friday.md",
+    "ForWork_page/W-code/相关产品推荐组件改造代码（related-products.liquid）.md",
+    "ForWork_page/W-code/三角标签 添加.md",
+    "ForWork_page/W-code/渐变波形(shrine-pro).md",
+    "ForWork_page/W-code/2x2 image and 2x2 reviews.md",
+    "ForWork_page/W-code/Popup Css.md",
+    "ForWork_page/W-code/reviews-loox-star-setting.md",
+    "ForWork_page/W-code/SALE UPDATE.md",
+    "ForWork_page/W-code/shadow css.md",
+    "ForWork_page/W-code/Shipping & Return.md",
+    "ForWork_page/W-code/w-code-note-with-sourcecode.md",
+    "ForWork_page/W-code/Testimonials CSS.md",
+    "ForWork_page/W-code/Icon-with-view-change.md",
+    "ForWork_page/W-code/icon under add to cart.md",
+    "17-TRACK-PRD (CHINESE VERSION).md",
+    "未命名 4.base",
     "ForWork_page/W-code/Pasted image 20250505143925.png",
-    "ForWork_page/Work/5a8fac0bc9e2ce80eccdaeaebb8d0bb6.png",
-    "ForWork_page/W-code/Pasted image 20250417105231.png",
     "ForWork_page/W-code/Pasted image 20250417105009.png",
+    "ForWork_page/work-doc-fix/39da3933f4b14c2ea90b67cd49cf2d85.png",
+    "ForWork_page/Work/Pasted image 20250429162717.png",
+    "ForWork_page/W-code/Pasted image 20250417105155.png",
+    "未命名 3.base",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 2.base",
+    "Pasted image 20251105133158.png",
+    "Pasted image 20251103170918.png",
+    "Pasted image 20251101095458.png",
+    "Pasted image 20251031164927.png",
+    "ForWork_page/Work/5a8fac0bc9e2ce80eccdaeaebb8d0bb6.png",
+    "未命名",
+    "ForShopLine",
     "shopify_note/webSetUp",
-    "shopify_note",
-    "img",
-    "ForWork_OA",
-    "ForMy",
-    "Forwork_snap",
-    "ForWork_page/TODO"
+    "shopify_note"
   ]
 }
