@@ -108,13 +108,15 @@ sequenceDiagram
 ### 4.1 🔐 身份认证与权限管理 (Auth & IAM - Casbin Enhanced)
 > **架构策略**：认证 (Authentication) 与 鉴权 (Authorization) 分离。DingTalk 负责认证，Casbin 负责鉴权。
 
-| 功能点 | 详细需求描述 | 优先级 |
-| :--- | :--- | :--- |
-| **DingTalk 扫码登录** | 1. 集成 DingTalk 扫码/免登。<br>2. **自动注册/白名单**：登录时校验用户是否在企业白名单/部门内。是则自动创建账号并关联钉钉 ID，否则拒绝。 | P0 |
-| **Casbin 策略管理** | **可视化权限配置台**：<br>1. 管理角色 (Role) 与用户 (User) 的继承关系 (g)。<br>2. 配置访问策略 (p)：`Subject, Object, Action`。<br>3. 支持策略热加载 (Watcher 机制)，修改即生效。 | P0 |
-| **权限中间件 (Middleware)** | 在 API Gateway 或业务层拦截请求，提取 `sub (user/role)`, `obj (url)`, `act (method)`，调用 Casbin Server `Enforce` 接口进行鉴权。 | P0 |
-| **HubStudio 账号绑定** | 每个中台账号需强制绑定唯一的 HubStudio Team ID / User ID，用于后续环境调用鉴权与日志溯源。 | P1 |
-| **安全审计** | 1. **操作日志**：记录 Who, When, What (Diff), IP。<br>2. **页面水印**：全屏显示“姓名+工号”斜纹水印，防止截图泄密。 | P1 |
+| 功能点                    | 详细需求描述                                                                                                                              | 优先级 |
+| :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :-- |
+| **DingTalk 扫码登录**      | 1. 集成 DingTalk 扫码/免登。<br>2. **自动注册/白名单**：登录时校验用户是否在企业白名单/部门内。是则自动创建账号并关联钉钉 ID，否则拒绝。                                                 | P0  |
+| **Casbin 策略管理**        | **可视化权限配置台**：<br>1. 管理角色 (Role) 与用户 (User) 的继承关系 (g)。<br>2. 配置访问策略 (p)：`Subject, Object, Action`。<br>3. 支持策略热加载 (Watcher 机制)，修改即生效。 | P0  |
+| **权限中间件 (Middleware)** | 在 API Gateway 或业务层拦截请求，提取 `sub (user/role)`, `obj (url)`, `act (method)`，调用 Casbin Server `Enforce` 接口进行鉴权。                         | P0  |
+| **HubStudio 账号绑定**     | 每个中台账号需强制绑定唯一的 HubStudio Team ID / User ID，用于后续环境调用鉴权与日志溯源。                                                                         | P1  |
+| **安全审计**               | 1. **操作日志**：记录 Who, When, What (Diff), IP。<br>2. **页面水印**：全屏显示“姓名+工号”斜纹水印，防止截图泄密。                                                   | P1  |
+**DingTalk 扫码登录**
+https://open.dingtalk.com/document/dingstart/tutorial-obtaining-user-personal-information?spm=ding_open_doc.document.0.0.ea724a97umGJbw
 
 ### 4.2 📦 产品库系统 (PIM)
 > **目标**：实现“一次编辑，多端适配，一键刊登”。

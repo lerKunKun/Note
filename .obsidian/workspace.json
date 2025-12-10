@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForMy/草稿.md",
+                "file": "BIOU-EMP-DOCS/BIOU DATA CENTER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "草稿"
+              "title": "BIOU DATA CENTER"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57d4c116de526e52",
+  "active": "3748b1914d4bc9c1",
   "lastOpenFiles": [
+    "ForMy/草稿.md",
     "BIOU-EMP-DOCS/technical_design.md",
     "BIOU-EMP-DOCS/README.md",
     "BIOU-EMP-DOCS/quick_reference.md",
@@ -180,7 +181,6 @@
     "BIOU-EMP-DOCS/BIOU DATA CENTER.md",
     "BIOU-EMP-DOCS",
     "BIOU.md",
-    "ForMy/草稿.md",
     "ForMy/笔记文档.md",
     "ForMy/17-TRACK-PRD.md",
     "ForMy/Appeal Letter.md",
