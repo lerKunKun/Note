@@ -23,7 +23,7 @@
 
 
 For ggvlab
-![[Pasted image 20250905163201.png]]
+![[Pasted image 20250905163201 1.png]]
 ```css
 #B3848F
 ```
