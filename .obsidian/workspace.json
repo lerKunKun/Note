@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ForMy/Appeal Letter.md",
+                "file": "ForMy/草稿.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appeal Letter"
+              "title": "草稿"
             }
           }
         ]
@@ -170,10 +170,22 @@
   },
   "active": "57d4c116de526e52",
   "lastOpenFiles": [
-    "Welcome.md",
-    "ForMy/Appeal Letter.md",
-    "ForMy/17-TRACK-PRD (CHINESE VERSION).md",
+    "BIOU-EMP-DOCS/technical_design.md",
+    "BIOU-EMP-DOCS/README.md",
+    "BIOU-EMP-DOCS/quick_reference.md",
+    "BIOU-EMP-DOCS/Preparation.md",
+    "BIOU-EMP-DOCS/performance_module_brainstorm.md",
+    "BIOU-EMP-DOCS/implementation_checklist.md",
+    "BIOU-EMP-DOCS/IDEA 草稿.md",
+    "BIOU-EMP-DOCS/BIOU DATA CENTER.md",
+    "BIOU-EMP-DOCS",
+    "BIOU.md",
+    "ForMy/草稿.md",
     "ForMy/笔记文档.md",
+    "ForMy/17-TRACK-PRD.md",
+    "ForMy/Appeal Letter.md",
+    "Welcome.md",
+    "ForMy/17-TRACK-PRD (CHINESE VERSION).md",
     "img/cartsee.md",
     "img/Pasted image 20250820141635 1.png",
     "AAAAAAA.md",
@@ -182,9 +194,7 @@
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名.md",
     "未命名.base",
-    "ForMy/草稿.md",
     "ForMy/系统设计方案.md",
     "ForMy/便携版说明.md",
     "ForMy/Any Code CC 环境配置.md",
@@ -195,15 +205,6 @@
     "ForMy/Oceanpayment.md",
     "ForMy/Note.md",
     "ForMy/MT5.md",
-    "ForMy/MENU--Note.md",
-    "ForMy/document_access_control.md",
-    "ForMy/DNS.md",
-    "ForMy/cloud setting.md",
-    "ForMy/cc api key.md",
-    "ForMy/BIOU DATA CENTER.md",
-    "ForMy/Anaconda 常见命令.md",
-    "ForMy/AI直播软件MVP功能列表.md",
-    "ForMy/移动端主图偏移14px修改.md",
     "ForWork_page/W-code/Pasted image 20250505143925.png",
     "ForWork_page/W-code/Pasted image 20250417105009.png",
     "ForWork_page/work-doc-fix/39da3933f4b14c2ea90b67cd49cf2d85.png",
@@ -212,7 +213,6 @@
     "img/Pasted image 20251105133158.png",
     "img/Pasted image 20251103170918.png",
     "img/Pasted image 20251101095458.png",
-    "未命名",
     "ForShopLine",
     "shopify_note/webSetUp",
     "shopify_note"
